@@ -1,6 +1,5 @@
 # Meet Hydrogen!
 
- ![image](https://github.com/user-attachments/assets/bbf4222c-4db4-4a50-a7fc-279afad557de)
 
 
 Meet my project Hydrogen: a Java compiler that’s as simple as a hydrogen atom—small and unassuming, but handle it wrong, and it might just blow up!
